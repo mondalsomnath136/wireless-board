@@ -67,8 +67,15 @@ curl http://192.168.4.1/relay1/on
 curl http://192.168.4.1/relay4/off
 ```
 
-## License 📜
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International**.
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are free to use, modify, and share the contents for **personal and educational purposes only**, with proper credit.  
+**Commercial use is strictly prohibited.**
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ## Author ✨
 Developed by **Somnath Mondal**.
